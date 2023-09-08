@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "John Doe",
+		"email": "john.doe@example.com",
+		"message": "Great website! I love the design and user interface.",
+		"rating": 5,
+		"date": "2023-07-20",
+		"image_url": "https://media.istockphoto.com/id/1255773104/photo/young-businessman-sitting-in-restaurant-and-looking-time-at-watch.webp?b=1&s=170667a&w=0&k=20&c=cW6Y1CUzn51AHoAA8d5F-tEySiONxp6NFwVHFW-hlUY="
+	},
+	{
+		"id": 2,
+		"name": "Jane Smith",
+		"email": "jane.smith@example.com",
+		"message": "The service provided was excellent. I would highly recommend this website to others.",
+		"rating": 4,
+		"date": "2023-07-22",
+		"image_url": "https://media.istockphoto.com/id/1132254426/photo/man-with-documents-and-cellular-looking-at-camera-and-smiling.webp?b=1&s=170667a&w=0&k=20&c=n2jcVXqs5qWbWHN3D3JBbQx7AgBIDfh4wnSBjYoreHc="
+	},
+	{
+		"id": 3,
+		"name": "Michael Johnson",
+		"email": "michael.johnson@example.com",
+		"message": "I encountered a minor issue, but the support team was quick to respond and resolve it.",
+		"rating": 3,
+		"date": "2023-07-23",
+		"image_url": "https://media.istockphoto.com/id/1338606557/photo/shot-of-a-handsome-young-businessman-standing-alone-in-his-office-with-his-arms-folded.webp?b=1&s=170667a&w=0&k=20&c=Isxy7HeONitkfCjrLlNpTOQtUN_aicEGpHfhTKSctnM="
+	},
+	{
+		"id": 4,
+		"name": "Emily Brown",
+		"email": "emily.brown@example.com",
+		"message": "The product quality is top-notch. I'm very satisfied with my purchase.",
+		"rating": 5,
+		"date": "2023-07-25",
+		"image_url": "https://media.istockphoto.com/id/1138561531/photo/happy-mature-businessman-standing-with-folded-arms.webp?b=1&s=170667a&w=0&k=20&c=QRpCEsbN9ZG9RGyu_U-LS2iBghVrUTPzbvLxReNqYbs="
+	},
+	{
+		"id": 5,
+		"name": "Sarah Johnson",
+		"email": "sarah.johnson@example.com",
+		"message": "The website's performance is impressive. It loads quickly and smoothly.",
+		"rating": 5,
+		"date": "2023-07-28",
+		"image_url": "https://media.istockphoto.com/id/840428108/photo/smiling-businessman-with-hands-clasped.webp?b=1&s=170667a&w=0&k=20&c=ATc1-oaroCUpn5n7VppyDAypxWETqCysWS3SjtWasYM="
+	},
+	{
+		"id": 6,
+		"name": "David Lee",
+		"email": "david.lee@example.com",
+		"message": "The mobile app is user-friendly and intuitive. Great work!",
+		"rating": 4,
+		"date": "2023-07-30",
+		"image_url": "https://media.istockphoto.com/id/1417619895/photo/confident-businessman-in-formalwear-looking-at-camera-while-standing-against-grey-studio-wall.webp?b=1&s=170667a&w=0&k=20&c=wT6HICJS6UqINC2JUwDbn37W_8xzeN-NzFqCNBG_POY="
+	},
+	{
+		"id": 7,
+		"name": "Alex Turner",
+		"email": "alex.turner@example.com",
+		"message": "The customer support team was very helpful in addressing my inquiries.",
+		"rating": 4,
+		"date": "2023-08-02",
+		"image_url": "https://media.istockphoto.com/id/609696404/photo/i-dominated-the-business-world.webp?b=1&s=170667a&w=0&k=20&c=v1r4UXecc2Rvj07iLXCNbym7jTksNXZiWBg1JidMOCU="
+	},
+	{
+		"id": 8,
+		"name": "Jessica Wong",
+		"email": "jessica.wong@example.com",
+		"message": "I love the new features added in the latest update. Keep up the good work!",
+		"rating": 5,
+		"date": "2023-08-05",
+		"image_url": "https://media.istockphoto.com/id/623215670/photo/confidence-looks-great-on-him.webp?b=1&s=170667a&w=0&k=20&c=nnB-vMQkp-MBQBfvR3J62SkJNBRQIoaVgnwi_hIZA4I="
+	}
+]

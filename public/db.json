@@ -1,0 +1,482 @@
+[
+	{
+		"project_name": "Sample Project",
+		"project_type": "website",
+		"project_description": "This is a sample project created to demonstrate JSON data for project details.",
+		"project_image_url": "https://images.unsplash.com/photo-1481487196290-c152efe083f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8d2Vic2l0ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+		"project_link": "https://example.com/sample_project",
+		"start_date": "2023-01-01",
+		"end_date": "2023-06-30",
+		"project_manager": {
+			"name": "John Doe",
+			"email": "john.doe@example.com",
+			"phone": "123-456-7890"
+		},
+		"team_members": [
+			{
+				"name": "Jane Smith",
+				"email": "jane.smith@example.com",
+				"role": "Developer"
+			},
+			{
+				"name": "Michael Johnson",
+				"email": "michael.johnson@example.com",
+				"role": "Designer"
+			},
+			{
+				"name": "Emily Brown",
+				"email": "emily.brown@example.com",
+				"role": "Project Coordinator"
+			}
+		],
+		"client": {
+			"name": "Jane Smith",
+			"email": "emily.brown@example.com",
+			"phoneNumber": "123",
+			"location": "london"
+		},
+		"tasks": [
+			{
+				"task_id": 1,
+				"task_name": "Research and Planning",
+				"assigned_to": "Jane Smith",
+				"start_date": "2023-01-05",
+				"end_date": "2023-01-15",
+				"status": "Completed"
+			},
+			{
+				"task_id": 2,
+				"task_name": "Design Prototype",
+				"assigned_to": "Michael Johnson",
+				"start_date": "2023-01-20",
+				"end_date": "2023-02-10",
+				"status": "In Progress"
+			},
+			{
+				"task_id": 3,
+				"task_name": "Development",
+				"assigned_to": "Jane Smith",
+				"start_date": "2023-02-15",
+				"end_date": "2023-05-15",
+				"status": "In Progress"
+			},
+			{
+				"task_id": 4,
+				"task_name": "Testing and QA",
+				"assigned_to": "Emily Brown",
+				"start_date": "2023-05-20",
+				"end_date": "2023-06-10",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 5,
+				"task_name": "Deployment",
+				"assigned_to": "Michael Johnson",
+				"start_date": "2023-06-15",
+				"end_date": "2023-06-30",
+				"status": "Not Started"
+			}
+		],
+		"category": "sample project",
+		"budget": {
+			"total": 50000,
+			"currency": "USD",
+			"allocated": {
+				"development": 30000,
+				"design": 8000,
+				"testing": 6000,
+				"other": 6000
+			},
+			"spent": {
+				"development": 25000,
+				"design": 6000,
+				"testing": 0,
+				"other": 0
+			}
+		}
+	},
+	{
+		"project_name": "E-commerce Website Redesign",
+		"project_type": "website",
+		"category": "E-commerce",
+		"client": {
+			"name": "Jane",
+			"email": "emily.brown@examle.com",
+			"phoneNumber": "123",
+			"location": "london"
+		},
+		"project_description": "Redesigning and revamping the existing e-commerce website to enhance user experience and improve sales.",
+		"project_image_url": "https://images.unsplash.com/photo-1487014679447-9f8336841d58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1005&q=80",
+		"project_link": "https://example.com/ecommerce_redesign",
+		"start_date": "2023-08-01",
+		"end_date": "2023-12-31",
+		"project_manager": {
+			"name": "Sarah Johnson",
+			"email": "sarah.johnson@example.com",
+			"phone": "987-654-3210"
+		},
+		"team_members": [
+			{
+				"name": "David Lee",
+				"email": "david.lee@example.com",
+				"role": "Lead Developer"
+			},
+			{
+				"name": "Anna Chen",
+				"email": "anna.chen@example.com",
+				"role": "UX/UI Designer"
+			},
+			{
+				"name": "Mike Davis",
+				"email": "mike.davis@example.com",
+				"role": "QA Engineer"
+			}
+		],
+		"tasks": [
+			{
+				"task_id": 1,
+				"task_name": "Gather Requirements",
+				"assigned_to": "Sarah Johnson",
+				"start_date": "2023-08-05",
+				"end_date": "2023-08-15",
+				"status": "In Progress"
+			},
+			{
+				"task_id": 2,
+				"task_name": "UI/UX Design",
+				"assigned_to": "Anna Chen",
+				"start_date": "2023-08-20",
+				"end_date": "2023-09-30",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 3,
+				"task_name": "Frontend Development",
+				"assigned_to": "David Lee",
+				"start_date": "2023-10-05",
+				"end_date": "2023-12-15",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 4,
+				"task_name": "Backend Development",
+				"assigned_to": "David Lee",
+				"start_date": "2023-10-05",
+				"end_date": "2023-12-15",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 5,
+				"task_name": "QA Testing",
+				"assigned_to": "Mike Davis",
+				"start_date": "2023-12-20",
+				"end_date": "2023-12-31",
+				"status": "Not Started"
+			}
+		],
+		"budget": {
+			"total": 80000,
+			"currency": "USD",
+			"allocated": {
+				"development": 50000,
+				"design": 20000,
+				"testing": 5000,
+				"other": 5000
+			},
+			"spent": {
+				"development": 0,
+				"design": 0,
+				"testing": 0,
+				"other": 0
+			}
+		}
+	},
+	{
+		"project_name": "Mobile App Development - Fitness Tracker",
+		"project_type": "app",
+		"category": "Fitness",
+		"client": {
+			"name": "Jane Smith",
+			"email": "emily.brown@example.com",
+			"phoneNumber": "123",
+			"location": "london"
+		},
+		"project_description": "Developing a fitness tracking mobile app to help users monitor their workouts, diet, and overall health.",
+		"project_image_url": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=736&q=80",
+		"project_link": "https://example.com/fitness_app",
+		"start_date": "2023-09-01",
+		"end_date": "2024-02-28",
+		"project_manager": {
+			"name": "Mark Williams",
+			"email": "mark.williams@example.com",
+			"phone": "555-123-4567"
+		},
+		"team_members": [
+			{
+				"name": "Sarah Mitchell",
+				"email": "sarah.mitchell@example.com",
+				"role": "Lead Developer"
+			},
+			{
+				"name": "Alex Turner",
+				"email": "alex.turner@example.com",
+				"role": "Mobile App Designer"
+			},
+			{
+				"name": "Jessica Wong",
+				"email": "jessica.wong@example.com",
+				"role": "QA Engineer"
+			}
+		],
+		"tasks": [
+			{
+				"task_id": 1,
+				"task_name": "Requirements Gathering",
+				"assigned_to": "Mark Williams",
+				"start_date": "2023-09-05",
+				"end_date": "2023-09-15",
+				"status": "In Progress"
+			},
+			{
+				"task_id": 2,
+				"task_name": "App Design",
+				"assigned_to": "Alex Turner",
+				"start_date": "2023-09-20",
+				"end_date": "2023-11-30",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 3,
+				"task_name": "Frontend Development",
+				"assigned_to": "Sarah Mitchell",
+				"start_date": "2023-12-05",
+				"end_date": "2024-01-15",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 4,
+				"task_name": "Backend Development",
+				"assigned_to": "Sarah Mitchell",
+				"start_date": "2023-12-05",
+				"end_date": "2024-01-15",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 5,
+				"task_name": "QA Testing",
+				"assigned_to": "Jessica Wong",
+				"start_date": "2024-02-01",
+				"end_date": "2024-02-28",
+				"status": "Not Started"
+			}
+		],
+		"budget": {
+			"total": 60000,
+			"currency": "USD",
+			"allocated": {
+				"development": 40000,
+				"design": 15000,
+				"testing": 5000,
+				"other": 5000
+			},
+			"spent": {
+				"development": 0,
+				"design": 0,
+				"testing": 0,
+				"other": 0
+			}
+		}
+	},
+	{
+		"project_name": "Mobile App Development - Fitness Tracker",
+		"project_type": "app",
+		"category": "Fitness",
+		"client": {
+			"name": "Jane Smith",
+			"email": "emily.brown@example.com",
+			"phoneNumber": "123",
+			"location": "london"
+		},
+		"project_description": "Developing a fitness tracking mobile app to help users monitor their workouts, diet, and overall health.",
+		"project_image_url": "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+		"project_link": "https://example.com/fitness_app",
+		"start_date": "2023-09-01",
+		"end_date": "2024-02-28",
+		"project_manager": {
+			"name": "Mark Williams",
+			"email": "mark.williams@example.com",
+			"phone": "555-123-4567"
+		},
+		"team_members": [
+			{
+				"name": "Sarah Mitchell",
+				"email": "sarah.mitchell@example.com",
+				"role": "Lead Developer"
+			},
+			{
+				"name": "Alex Turner",
+				"email": "alex.turner@example.com",
+				"role": "Mobile App Designer"
+			},
+			{
+				"name": "Jessica Wong",
+				"email": "jessica.wong@example.com",
+				"role": "QA Engineer"
+			}
+		],
+		"tasks": [
+			{
+				"task_id": 1,
+				"task_name": "Requirements Gathering",
+				"assigned_to": "Mark Williams",
+				"start_date": "2023-09-05",
+				"end_date": "2023-09-15",
+				"status": "In Progress"
+			},
+			{
+				"task_id": 2,
+				"task_name": "App Design",
+				"assigned_to": "Alex Turner",
+				"start_date": "2023-09-20",
+				"end_date": "2023-11-30",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 3,
+				"task_name": "Frontend Development",
+				"assigned_to": "Sarah Mitchell",
+				"start_date": "2023-12-05",
+				"end_date": "2024-01-15",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 4,
+				"task_name": "Backend Development",
+				"assigned_to": "Sarah Mitchell",
+				"start_date": "2023-12-05",
+				"end_date": "2024-01-15",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 5,
+				"task_name": "QA Testing",
+				"assigned_to": "Jessica Wong",
+				"start_date": "2024-02-01",
+				"end_date": "2024-02-28",
+				"status": "Not Started"
+			}
+		],
+		"budget": {
+			"total": 60000,
+			"currency": "USD",
+			"allocated": {
+				"development": 40000,
+				"design": 15000,
+				"testing": 5000,
+				"other": 5000
+			},
+			"spent": {
+				"development": 0,
+				"design": 0,
+				"testing": 0,
+				"other": 0
+			}
+		}
+	},
+	{
+		"project_name": "Mobile App Development - Fitness Tracker",
+		"project_type": "app",
+		"category": "Fitness",
+		"client": {
+			"name": "Jane Smith",
+			"email": "emily.brown@example.com",
+			"phoneNumber": "123",
+			"location": "london"
+		},
+		"project_description": "Developing a fitness tracking mobile app to help users monitor their workouts, diet, and overall health.",
+		"project_image_url": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+		"project_link": "https://example.com/fitness_app",
+		"start_date": "2023-09-01",
+		"end_date": "2024-02-28",
+		"project_manager": {
+			"name": "Mark Williams",
+			"email": "mark.williams@example.com",
+			"phone": "555-123-4567"
+		},
+		"team_members": [
+			{
+				"name": "Sarah Mitchell",
+				"email": "sarah.mitchell@example.com",
+				"role": "Lead Developer"
+			},
+			{
+				"name": "Alex Turner",
+				"email": "alex.turner@example.com",
+				"role": "Mobile App Designer"
+			},
+			{
+				"name": "Jessica Wong",
+				"email": "jessica.wong@example.com",
+				"role": "QA Engineer"
+			}
+		],
+		"tasks": [
+			{
+				"task_id": 1,
+				"task_name": "Requirements Gathering",
+				"assigned_to": "Mark Williams",
+				"start_date": "2023-09-05",
+				"end_date": "2023-09-15",
+				"status": "In Progress"
+			},
+			{
+				"task_id": 2,
+				"task_name": "App Design",
+				"assigned_to": "Alex Turner",
+				"start_date": "2023-09-20",
+				"end_date": "2023-11-30",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 3,
+				"task_name": "Frontend Development",
+				"assigned_to": "Sarah Mitchell",
+				"start_date": "2023-12-05",
+				"end_date": "2024-01-15",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 4,
+				"task_name": "Backend Development",
+				"assigned_to": "Sarah Mitchell",
+				"start_date": "2023-12-05",
+				"end_date": "2024-01-15",
+				"status": "Not Started"
+			},
+			{
+				"task_id": 5,
+				"task_name": "QA Testing",
+				"assigned_to": "Jessica Wong",
+				"start_date": "2024-02-01",
+				"end_date": "2024-02-28",
+				"status": "Not Started"
+			}
+		],
+		"budget": {
+			"total": 60000,
+			"currency": "USD",
+			"allocated": {
+				"development": 40000,
+				"design": 15000,
+				"testing": 5000,
+				"other": 5000
+			},
+			"spent": {
+				"development": 0,
+				"design": 0,
+				"testing": 0,
+				"other": 0
+			}
+		}
+	}
+]
